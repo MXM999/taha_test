@@ -11,7 +11,8 @@ namespace ConsoleApp224
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
-            Console.WriteLine("123");
+            Console.WriteLine("12");
+            Console.WriteLine( "taha");
         }
     }
 }
