@@ -13,6 +13,7 @@ namespace ConsoleApp224
             Console.WriteLine("hello world");
             Console.WriteLine("12");
             Console.WriteLine( "taha");
+            Console.WriteLine("good");
         }
     }
 }
